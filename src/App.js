@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <p>this page is updated </p>
+      <p>this page is 2 updated page </p>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
